@@ -1,0 +1,50 @@
+body {
+    background-color: #222; /* Qoramtir fon */
+    color: white; /* Oq matn */
+    font-family: Arial, sans-serif; /* Chiroyli shrift */
+    text-align: center; /* Matnlarni markazga joylash */
+}h1 {
+    font-size: 36px;
+    color: #ffcc00; /* Sariq sarlavha */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Soya effekti */
+}
+p {
+    font-size: 18px;
+    line-height: 1.6; /* Matn oraliqlari */
+}.button {
+    display: inline-block;
+    background: #ff6600; /* To‘q sariq tugma */
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px; /* Burchaklarni yumshatish */
+    transition: 0.3s;
+}
+.button:hover {
+    background: #cc5500; /* Sichqoncha ustiga kelsa rangi o‘zgaradi */
+}h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: gold;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #ddd;
+    text-align: center;
+}img {
+    width: 80%; /* Rasmni ekranga moslashtirish */
+    max-width: 600px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px; /* Burchaklarni yumshatish */
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); /* Yengil soya */
+}body {
+    background-color: #222;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
